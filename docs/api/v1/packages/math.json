@@ -1,0 +1,7 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "Integer math for Cob -- factorial, gcd, power, abs, min, max, plus a tally op that renders a result as up to 50 '*' lines. Operation-dispatch package: set math_a/math_b/math_op, shuck math, read math_result.",
+  "zip_url": "https://pixel-pulse-labs.github.io/cpi/packages/math-1.0.0.zip",
+  "sha256": "9abc2b92fa923c6253b36aaa36c99c98c94391e554fe036b7d3cde423d310c31"
+}
